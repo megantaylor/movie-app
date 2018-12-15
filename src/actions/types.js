@@ -1,0 +1,4 @@
+export const ADD_MOVIE = 'ADD_MOVIE';
+export const REMOVE_MOVIE = 'REMOVE_MOVIE';
+export const FILTER_MOVIE_TITLE = 'FILTER_MOVIE_TITLE';
+export const FILTER_GENRE = 'FILTER_GENRE';

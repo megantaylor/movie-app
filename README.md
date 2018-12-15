@@ -1,3 +1,32 @@
+#Instructions
+
+- Open Terminal and navigate to project root folder.
+- Run `npm install`
+- Run `npm start`
+- Open http://localhost:3000/ in browser of choice.
+
+# Requirements
+
+Create a React App, to manage a movie database. You need to make sure the app can:
+
+- Allow a user to add/remove movies
+- Allow a user to search movies by name
+- Filter by movie genre
+- The app must be responsive
+- The app must use Redux or Context Api
+- 2 hours of coding time
+
+# Discussion
+
+I wasn't able to get as far along with this project within two hours as I would have liked. Genre filtering works, but that's about it, given the time limit. I wrote out most of the actions and reducers first, then started on the components and wiring everything together. I just ran out of time to keep making components and wiring them up, not to mention styling.
+
+# Next Steps
+
+- finish add movie modal, add a button to trigger the modal to App.js, wire that up to action.
+- finish movie details component, add click action to movie poster to show individual movie details, wire up remove movie button.
+- add movie search component to search movies by title, wire up to action.
+- styling! pull in bootstrap grid for responsiveness. test in multiple browsers.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
