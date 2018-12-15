@@ -1,4 +1,4 @@
-#Instructions
+# Instructions
 
 - Open Terminal and navigate to project root folder.
 - Run `npm install`
