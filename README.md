@@ -1,5 +1,6 @@
 # Instructions
 
+- Clone repo
 - Open Terminal and navigate to project root folder.
 - Run `npm install`
 - Run `npm start`
